@@ -1,4 +1,4 @@
-# sololearncv
+<title># sololearncv</title>
 <html>
 
 <head>
@@ -10,8 +10,10 @@
 <p>
   <strong> Software Engineer </strong>
 </p>
-<img src="1623692949144.jpg" alt: "LinkedIn Photo" width="100">
-<hr />
+<div>
+  <img src="https://inteng-storage.s3.amazonaws.com/img/iea/nR6bkXZxwo/sizes/software-engineering-skills_resize_md.jpg" alt="Coding" style="display-block;" width="300px">
+</div>
+
 <h2>
   <i>
     Summary
